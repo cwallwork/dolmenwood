@@ -1,8 +1,9 @@
 ---
+lastSync: Sun Nov 09 2025 17:04:55 GMT-0500 (Eastern Standard Time)
 title: "Building your Quartz"
 ---
 
-Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
+Once you've [[quartz/docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
 npx quartz build --serve
