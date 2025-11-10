@@ -1,9 +1,9 @@
 ---
-lastSync: Wed Nov 05 2025 10:17:18 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Nov 09 2025 20:19:05 GMT-0500 (Eastern Standard Time)
 ---
 ### Checks
 Roll 1d20 and add your modifier. The DM will tell you if you succeed or not.
-A roll of a natural 20 can indicate a Critical Success (yes, and). A natural one can indicate an exceptional failure (no, and), also called a Fumble.
+A roll of a natural 20 can indicate a Critical Success. A natural one can indicate an exceptional failure, also called a Fumble.
 #### Modifiers
 
 Ability scores add (or subtract) modifiers to damage rolls.

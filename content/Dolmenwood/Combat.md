@@ -1,6 +1,16 @@
 ---
-lastSync: Mon Nov 03 2025 18:16:27 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Nov 09 2025 20:52:57 GMT-0500 (Eastern Standard Time)
 ---
+### Attacking
+There are no "to-hit" rolls, only damage rolls. HP represents a character's ability to fend off harm during the fight. They do not take physical damage until 0 HP is reached. Damage is reduced by armor.
+
+### Move order
+On their turn, if a character or NPC chooses to attack with a melee weapon, attack resolution is determined like so:
+
+If the attacker has to move before they are within striking distance of the target, Slow (d10) weapons are resolved before Balanced (d8) weapons, which are resolved before Quick (d6) weapons.
+
+If the attacker is already in melee range, Quick weapons go first, followed by Balanced weapons, with Slow weapons going last.
+### Maneuvers
 Before damage is rolled, Player Characters under attack have the following options:
 #### Defend 
 The character tries to defend themselves without taking any particular risks
@@ -35,6 +45,10 @@ strikes at a PC and the PC fights back, the orc cannot block or take similar rea
 that could create an infinite chain of reactions.
 
 ### Damage
-HP represents the character's ability to avoid harm. While the character is at or above 0 HP, they have not be physically harmed.
+HP represents the character's ability to avoid harm. While the character is at or above 0 HP, they have not been physically injured.
 
-Once a character's HP have been depleted, any additional damage is done to their STR stat. Once the damage 
+Once a character's HP have been depleted, any additional damage is done to their STR stat. Any time a character takes damage to their STR stat, they must roll a STR save. 
+If they succeed the save, they roll on the Light Wound table.
+If they fail the save, they roll on the Critical Wound table.
+
+If a character reaches 0 STR, they are dead.

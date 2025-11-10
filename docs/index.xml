@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Playstyle</title>
+    <link>https://quartz.jzhao.xyz/Dolmenwood/Playstyle</link>
+    <guid>https://quartz.jzhao.xyz/Dolmenwood/Playstyle</guid>
+    <description><![CDATA[ Principles Living World Their is no set plot, and the players are free to follow what interests them. ]]></description>
+    <pubDate>Mon, 10 Nov 2025 01:53:11 GMT</pubDate>
+  </item><item>
     <title>Ability Scores</title>
     <link>https://quartz.jzhao.xyz/Dolmenwood/Ability-Scores</link>
     <guid>https://quartz.jzhao.xyz/Dolmenwood/Ability-Scores</guid>
@@ -21,13 +27,13 @@
     <title>Character Creation</title>
     <link>https://quartz.jzhao.xyz/Dolmenwood/Character-Creation</link>
     <guid>https://quartz.jzhao.xyz/Dolmenwood/Character-Creation</guid>
-    <description><![CDATA[ Roll ability scores Roll 3d6 three times. Assign each total to one of the ability scores of your choice, STR, DEX and WIl. ]]></description>
+    <description><![CDATA[ Get a character sheet Dolmenwood Character Sheet.pdf The sheet can be printed or edited in the pdf. Roll ability scores Roll 3d6 three times. ]]></description>
     <pubDate>Sun, 09 Nov 2025 22:21:03 GMT</pubDate>
   </item><item>
     <title>Combat</title>
     <link>https://quartz.jzhao.xyz/Dolmenwood/Combat</link>
     <guid>https://quartz.jzhao.xyz/Dolmenwood/Combat</guid>
-    <description><![CDATA[ Before damage is rolled, Player Characters under attack have the following options: Defend The character tries to defend themselves without taking any particular risks or trying any moves. ]]></description>
+    <description><![CDATA[ Attacking There are no “to-hit” rolls, only damage rolls. HP represents a character’s ability to fend off harm during the fight. ]]></description>
     <pubDate>Sun, 09 Nov 2025 22:21:03 GMT</pubDate>
   </item><item>
     <title>Magic</title>
@@ -39,13 +45,7 @@
     <title>Mechanics</title>
     <link>https://quartz.jzhao.xyz/Dolmenwood/Mechanics</link>
     <guid>https://quartz.jzhao.xyz/Dolmenwood/Mechanics</guid>
-    <description><![CDATA[ Checks Roll 1d20 and add your modifier. The DM will tell you if you succeed or not. A roll of a natural 20 can indicate a Critical Success (yes, and). ]]></description>
-    <pubDate>Sun, 09 Nov 2025 22:21:03 GMT</pubDate>
-  </item><item>
-    <title>Session 0</title>
-    <link>https://quartz.jzhao.xyz/Dolmenwood/Session-0</link>
-    <guid>https://quartz.jzhao.xyz/Dolmenwood/Session-0</guid>
-    <description><![CDATA[ Principles Living World Their is no set plot, and the players are free to follow what interests them. ]]></description>
+    <description><![CDATA[ Checks Roll 1d20 and add your modifier. The DM will tell you if you succeed or not. A roll of a natural 20 can indicate a Critical Success. ]]></description>
     <pubDate>Sun, 09 Nov 2025 22:21:03 GMT</pubDate>
   </item><item>
     <title>Vocations</title>
